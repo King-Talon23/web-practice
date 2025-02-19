@@ -1,24 +1,12 @@
-h1 {
-    margin: 0 auto;
-    width: fit-content;
+.center{
+    margin: 0 auto; 
+    width: fit-content
+
 }
-h2 {
-    margin: 0 auto;
-    width: fit-content;
+header {
+    font-size: 50px;
+    color:rgb(127, 37, 165);
 }
-h3 {
-    margin: 0 auto;
-    width: fit-content;
-}
-h4 {
-    margin: 0 auto;
-    width: fit-content;
-}
-h5 {
-    margin: 0 auto;
-    width: fit-content;
-}
-h6 {
-    margin: 0 auto;
-    width: fit-content;
+h1, h2, h3, h4, h5, h6 {
+    color:white
 }
